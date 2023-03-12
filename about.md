@@ -1,8 +1,10 @@
 ---
 title: "About"
 permalink: "/about/"
-layout: default
+layout: page
 ---
+
+
 
 Hello! I am an undergraduate studying computer science at UCSD. I put together this blog as a resource for expanding my own and YOUR
 understanding of the climate crisis at we know it.  
