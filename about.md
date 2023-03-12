@@ -1,7 +1,7 @@
 ---
+title: "About"
 permalink: "/about/"
 layout: default
-title: "About"
 ---
 
 Hello! I am an undergraduate studying computer science at UCSD. I put together this blog as a resource for expanding my own and YOUR
