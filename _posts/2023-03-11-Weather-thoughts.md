@@ -17,6 +17,9 @@ Because it is so dry in California, when we received record rainfall, places flo
 
 I am probably only talking about a fraction of the weather changes that have occurred in or around San Diego alone, this thought alone is concerning. 
 
+I do not mean to scare you, or for you to fear the sun or the rain.  There is hope in this world. In this beautiful short story, [The World Away From the Rain](https://grist.org/fix/climate-fiction/imagine-2200-world-away-from-the-rain/) by Ella Menzies, the world fears the rain because it harms.  It is acid rain, but this young Rwandan girl, Keza, sees that there is beauty in this future Earth dealing with the effects of climate change.  She attempts to show her mother this beauty. Read the story to find out the rest, nothing bad happens, promise. 
+
+I love the rain and cold weather the most.  Winter and spring time are my favorite seasons for this reason.  Everything is as green as it gets in Southern California and little birds chirp throughout the day and flowers bloom.  I would hate for the world and for rain to become something I fear.  I hope Keza inspired you to love your home and the environment around, to see the beauty of it, and do something to save it.
 
 ## Heading Two (h2)
 
