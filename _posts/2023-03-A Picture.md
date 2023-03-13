@@ -1,0 +1,32 @@
+---
+title:  "A Picture"
+mathjax: true
+layout: post
+categories: media
+---
+
+Short post for today.  I want you to explore what people are noticing about climate change through photography, film, and art.  
+
+We know all there is to know about what is happening to our climate - in words and numbers.  These statistics alone was striking and alarming from annual record-breaking temperatures and more frequent hurricanes.
+
+The numbers make us depressed, and that's all the news ever talks about.  There are few stories about hopeful things.  
+
+This is where art is helpful in our fight against climate change because a picture is worth a thousand words. Art can explain and connect better to a wider audience than scientific facts that can get lost in translation and manipulation.  
+
+## Photography
+
+![Ancient Prairies](https://i0.wp.com/yaleclimateconnections.org/wp-content/uploads/2022/12/1222_KansasPrairie.jpeg?resize=1024%2C909&ssl=1) 
+[Ancient Prairies](http://www.terryevansphotography.com/) by Terry Evans.  From Evan's project statement:
+> "This work is about remembering the wisdom and beauty of intact prairies. It is about SEEING them. These prairies would not exist without human care, and Ancient Prairies serves as a tribute to the kinship between humans and nature. "
+
+## Video
+
+In this short film, On a Wing and a Prayer, we learn about what is happening to Louisiana's wetlands by showcasing a photographer’s process of capturing these changes. 
+
+{% include embed.html url="https://www.youtube.com/watch?v=XV704idfOkE&t=3s" %}
+
+
+## Art
+![Anne Kaye](https://images.squarespace-cdn.com/content/v1/595aac2f4f14bcb374cd98cd/96dc2eee-8d0d-4910-ab3c-59fe83d745c9/AnnaKaye_Bluebird_40x36_watercolor.jpg?format=1500w)
+[Bluebird and Mountain Dandelion](https://www.annakayeart.com/) by Anne Kaye documents the wreckage of the 2002 Hayman Fire in Colorado. She told the [Atlantic](https://www.theatlantic.com/ideas/archive/2022/11/eco-artists-climate-change-museum-protests/672185/), 
+> “It’s incredible to see those slivers of grass that come back out and fight for life, and the roots that resprout and become new plants,” she told me. “There’s power in witnessing that regeneration.”
