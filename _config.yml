@@ -36,4 +36,4 @@ plugins:
  - jekyll-feed
 
 # color
-page-col: 3b4b59
+page-col: "#AB3399"
