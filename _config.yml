@@ -35,3 +35,5 @@ comments:
 plugins:
  - jekyll-feed
 
+# color
+page-col: 3b4b59
