@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: "/about/"
-layout: page
+layout: about
 ---
 
 <img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTIyY2NjOWJkZDlkZjA3NTc1N2E4MTliNTBmMGU1YzhhMjkzZjg3MSZjdD1n/h7fJWiIegygU/giphy.gif' title='Sparrow' width='' alt='Sparrow' />
