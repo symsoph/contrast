@@ -16,3 +16,7 @@ Hopefully, through this blog, you learn and feel empowered to contribute to mult
 
 Sincerely,
 Sofia
+
+![](https://img.artlogic.net/w_1010,h_580,c_limit/exhibit-e/59bff84cdca83743488b4567/3ea44e34f7c113652cb4d83586e86dcf.jpeg)
+
+Photo From LA Artist [Andrea Bowers](http://www.andrewkreps.com/exhibitions/andrea-bowers4?view=slider#6)
