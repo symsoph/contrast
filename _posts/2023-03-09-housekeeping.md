@@ -2,6 +2,7 @@
 title: "Housekeeping"
 layout: post
 ---
+![Syntehsis](https://seventh.ucsd.edu/_images/synthesis-program-images/SYN-HEADING.png)
 
 My first post will be about how I started this project.  Basically, through a required course called Synthesis, I learned about different ways to think about climate change. 
 
