@@ -4,8 +4,9 @@ layout: post
 ---
 
 Let's try to be more aware of climate change happening around us. I'll go first.
+![Mira Mesa](https://pbs.twimg.com/media/FrKJ4j-XgAENVno?format=jpg&name=small)
 
-I've been in San Diego my whole life, and it is true - it called Sunny San Diego for a reason.  However, I have noticed changes in this weather pattern, such as how quickly the weather can change.  
+In that glorious photo is Mira Mesa, San Diego, taken by [Oliver Asis](https://www.oliverasis.photography/about). I've been in San Diego my whole life, and it is true - it called Sunny San Diego for a reason.  However, I have noticed changes in this weather pattern, such as how quickly the weather can change.  
 
 Currently, it is incredibly misty.  It started raining about 2 days ago on Friday.  Before Friday, it was sunny then cloudy then sunny.  Lucky I had the foresight to check the weather on Friday when noticing a very cloudy morning; otherwise, I would have come back to my dorm dripping wet and possibly get sick right before finals.  
 
